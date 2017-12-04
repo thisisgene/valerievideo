@@ -8,8 +8,8 @@ function getRdmVid(obj) {
   $source.attr('src', source);
   console.log($source);
 
-  $video.show();
   $video.get(0).load();
+  $video.show();
   $video.get(0).play();
   $video.on('ended', function() {
     $video.hide();
