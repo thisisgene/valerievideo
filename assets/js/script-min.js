@@ -1,0 +1,1 @@
+function getRdmVid(o){var e=Math.floor(3*Math.random()+1);console.log(e);var d="../assets/img/videos/screen_"+e+".mov",n=$("#video-background"),a=n.find("#video-src");a.attr("src",d),console.log(a),n.show(),n.get(0).load(),n.get(0).play(),n.on("ended",function(){n.hide()})}
