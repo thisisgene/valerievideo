@@ -1,4 +1,9 @@
 function getRdmVid(obj) {
+
+  $img = $('.home-wrapper');
+
+  $img.fadeOut();
+
   var rdmNumber = Math.floor((Math.random() * 3) + 1);
 
   console.log(rdmNumber);
@@ -13,6 +18,8 @@ function getRdmVid(obj) {
   $video.get(0).play();
   $video.on('ended', function() {
     $video.hide();
+    $img.fadeIn();
+
   });
 }
 
