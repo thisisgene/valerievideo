@@ -106,17 +106,9 @@
 		},
 	"\/assets\/img\/main.gif": {
 		"ft": 4194304,
-		"iS": 4764723,
+		"iS": 38794727,
 		"oA": 0,
 		"oAP": "\/assets\/img\/main.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/assets\/img\/videos\/main.gif": {
-		"ft": 4194304,
-		"iS": 4764723,
-		"oA": 0,
-		"oAP": "\/assets\/img\/videos\/main.gif",
 		"oF": 0,
 		"opt": 0
 		},
@@ -125,21 +117,35 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/assets\/img\/videos\/screen_1.mov",
-		"oF": 1
+		"oF": 0
 		},
 	"\/assets\/img\/videos\/screen_2.mov": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/assets\/img\/videos\/screen_2.mov",
-		"oF": 1
+		"oF": 0
 		},
 	"\/assets\/img\/videos\/screen_3.mov": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/assets\/img\/videos\/screen_3.mov",
-		"oF": 1
+		"oF": 0
+		},
+	"\/assets\/img\/videos\/screen_4.mov": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/img\/videos\/screen_4.mov",
+		"oF": 0
+		},
+	"\/assets\/img\/videos\/screen_5.mov": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/img\/videos\/screen_5.mov",
+		"oF": 0
 		},
 	"\/assets\/js\/jquery-3.2.1.min.js": {
 		"ft": 64,
@@ -901,7 +907,7 @@
 			"optionString": "{'allowParens': false}"
 			},
 		"no-console": {
-			"active": 1,
+			"active": 0,
 			"optionString": "{'allow': ['warn', 'error']}"
 			},
 		"no-const-assign": {
@@ -1604,7 +1610,7 @@
 			"flagValue": -1
 			},
 		"browser": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"browserify": {
@@ -1700,7 +1706,7 @@
 			"flagValue": -1
 			},
 		"jquery": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"lastsemic": {
@@ -1792,7 +1798,7 @@
 			"flagValue": -1
 			},
 		"notypeof": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"noyield": {

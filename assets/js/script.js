@@ -4,7 +4,7 @@ function getRdmVid(obj) {
 
   $img.fadeOut();
 
-  var rdmNumber = Math.floor((Math.random() * 3) + 1);
+  var rdmNumber = Math.floor((Math.random() * 5) + 1);
 
   console.log(rdmNumber);
   var source = 'assets/img/videos/screen_' + rdmNumber + '.mov';
