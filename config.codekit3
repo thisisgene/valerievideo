@@ -55,6 +55,22 @@
 		"oF": 0,
 		"oS": 0
 		},
+	"\/admin.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/admin.html",
+		"oF": 0
+		},
+	"\/admin.pug": {
+		"cB": 0,
+		"cOD": 1,
+		"ft": 512,
+		"oA": 0,
+		"oAP": "\/admin.html",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/assets\/css\/1-base\/main.sass": {
 		"aP": 0,
 		"bl": 0,
@@ -106,46 +122,11 @@
 		},
 	"\/assets\/img\/main.gif": {
 		"ft": 4194304,
-		"iS": 38794727,
+		"iS": 6670746,
 		"oA": 0,
 		"oAP": "\/assets\/img\/main.gif",
 		"oF": 0,
 		"opt": 0
-		},
-	"\/assets\/img\/videos\/screen_1.mov": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/img\/videos\/screen_1.mov",
-		"oF": 0
-		},
-	"\/assets\/img\/videos\/screen_2.mov": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/img\/videos\/screen_2.mov",
-		"oF": 0
-		},
-	"\/assets\/img\/videos\/screen_3.mov": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/img\/videos\/screen_3.mov",
-		"oF": 0
-		},
-	"\/assets\/img\/videos\/screen_4.mov": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/img\/videos\/screen_4.mov",
-		"oF": 0
-		},
-	"\/assets\/img\/videos\/screen_5.mov": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/assets\/img\/videos\/screen_5.mov",
-		"oF": 0
 		},
 	"\/assets\/js\/jquery-3.2.1.min.js": {
 		"ft": 64,
@@ -176,6 +157,153 @@
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/assets\/php\/count_videos.php": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/php\/count_videos.php",
+		"oF": 0
+		},
+	"\/assets\/videos\/screen_1.m4v": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/videos\/screen_1.m4v",
+		"oF": 0
+		},
+	"\/assets\/videos\/screen_10.m4v": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/videos\/screen_10.m4v",
+		"oF": 0
+		},
+	"\/assets\/videos\/screen_11.m4v": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/videos\/screen_11.m4v",
+		"oF": 0
+		},
+	"\/assets\/videos\/screen_12.m4v": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/videos\/screen_12.m4v",
+		"oF": 0
+		},
+	"\/assets\/videos\/screen_13.m4v": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/videos\/screen_13.m4v",
+		"oF": 0
+		},
+	"\/assets\/videos\/screen_14.m4v": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/videos\/screen_14.m4v",
+		"oF": 0
+		},
+	"\/assets\/videos\/screen_15.m4v": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/videos\/screen_15.m4v",
+		"oF": 0
+		},
+	"\/assets\/videos\/screen_16.m4v": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/videos\/screen_16.m4v",
+		"oF": 0
+		},
+	"\/assets\/videos\/screen_17.m4v": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/videos\/screen_17.m4v",
+		"oF": 0
+		},
+	"\/assets\/videos\/screen_18.m4v": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/videos\/screen_18.m4v",
+		"oF": 0
+		},
+	"\/assets\/videos\/screen_19.m4v": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/videos\/screen_19.m4v",
+		"oF": 0
+		},
+	"\/assets\/videos\/screen_2.m4v": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/videos\/screen_2.m4v",
+		"oF": 0
+		},
+	"\/assets\/videos\/screen_20.m4v": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/videos\/screen_20.m4v",
+		"oF": 0
+		},
+	"\/assets\/videos\/screen_3.m4v": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/videos\/screen_3.m4v",
+		"oF": 0
+		},
+	"\/assets\/videos\/screen_4.m4v": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/videos\/screen_4.m4v",
+		"oF": 0
+		},
+	"\/assets\/videos\/screen_5.m4v": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/videos\/screen_5.m4v",
+		"oF": 0
+		},
+	"\/assets\/videos\/screen_6.m4v": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/videos\/screen_6.m4v",
+		"oF": 0
+		},
+	"\/assets\/videos\/screen_7.m4v": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/videos\/screen_7.m4v",
+		"oF": 0
+		},
+	"\/assets\/videos\/screen_8.m4v": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/videos\/screen_8.m4v",
+		"oF": 0
+		},
+	"\/assets\/videos\/screen_9.m4v": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/assets\/videos\/screen_9.m4v",
+		"oF": 0
 		},
 	"\/index.html": {
 		"cB": 0,

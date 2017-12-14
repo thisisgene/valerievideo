@@ -4,6 +4,10 @@ html, body {
   padding: 0;
   font-family: Catamaran, Arial, sans-serif; }
 
+#admin {
+  text-align: center;
+  margin: 2rem; }
+
 section#home {
   background: white;
   height: 100vh; }
