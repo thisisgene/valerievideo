@@ -1,1 +1,0 @@
-echo iterator_count(new DirectoryIterator('../videos/'));

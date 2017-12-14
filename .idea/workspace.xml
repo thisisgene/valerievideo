@@ -2,40 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed3e8f43-4ebf-41f8-a5d9-01d6d3d0af10" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/admin.pug" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/php/count_videos.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/videos/screen_1.m4v" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/videos/screen_11.m4v" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/videos/screen_12.m4v" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/videos/screen_14.m4v" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/videos/screen_15.m4v" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/videos/screen_17.m4v" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/videos/screen_18.m4v" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/videos/screen_19.m4v" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/videos/screen_2.m4v" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/videos/screen_20.m4v" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/videos/screen_3.m4v" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/videos/screen_4.m4v" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/videos/screen_5.m4v" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/videos/screen_6.m4v" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/videos/screen_7.m4v" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/videos/screen_8.m4v" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/videos/screen_9.m4v" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_includes/home.pug" afterPath="$PROJECT_DIR$/_includes/home.pug" />
-      <change beforePath="$PROJECT_DIR$/assets/css/1-base/main.sass" afterPath="$PROJECT_DIR$/assets/css/1-base/main.sass" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
-      <change beforePath="$PROJECT_DIR$/assets/img/main.gif" afterPath="$PROJECT_DIR$/assets/img/main.gif" />
-      <change beforePath="$PROJECT_DIR$/assets/img/videos/screen_1.mov" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/img/videos/screen_2.mov" afterPath="$PROJECT_DIR$/assets/videos/screen_13.m4v" />
-      <change beforePath="$PROJECT_DIR$/assets/img/videos/screen_3.mov" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/img/videos/screen_4.mov" afterPath="$PROJECT_DIR$/assets/videos/screen_16.m4v" />
-      <change beforePath="$PROJECT_DIR$/assets/img/videos/screen_5.mov" afterPath="$PROJECT_DIR$/assets/videos/screen_10.m4v" />
-      <change beforePath="$PROJECT_DIR$/assets/js/script-min.js" afterPath="$PROJECT_DIR$/assets/js/script-min.js" />
-      <change beforePath="$PROJECT_DIR$/assets/js/script.js" afterPath="$PROJECT_DIR$/assets/js/script.js" />
-      <change beforePath="$PROJECT_DIR$/config.codekit3" afterPath="$PROJECT_DIR$/config.codekit3" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/assets/php/count_videos.php" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -123,16 +90,6 @@
               <folding>
                 <marker date="1513250586000" expanded="true" signature="170:208" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="count_videos.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/php/count_videos.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="53" lean-forward="false" selection-start-line="0" selection-start-column="53" selection-end-line="0" selection-end-column="53" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -243,12 +200,6 @@
             <path>
               <item name="full screen app" type="b2602c69:ProjectViewProjectNode" />
               <item name="full screen app" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="php" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="full screen app" type="b2602c69:ProjectViewProjectNode" />
-              <item name="full screen app" type="462c0819:PsiDirectoryNode" />
               <item name="admin.pug" type="620a8d5e:NestingTreeNode" />
             </path>
           </expand>
@@ -297,18 +248,17 @@
       <workItem from="1512391862842" duration="567000" />
       <workItem from="1512392919373" duration="11574000" />
       <workItem from="1513082976782" duration="1362000" />
-      <workItem from="1513192308883" duration="4663000" />
+      <workItem from="1513192308883" duration="4712000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18166000" />
+    <option name="totallyTimeSpent" value="18215000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16535018" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16535018" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
